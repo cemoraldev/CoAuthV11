@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "e7NheZl7TVffp01t+r5Nr5qShyRfRnqRk/F8DQZ2ZiQ=",
+  "Source": "CoAuth.API",
+  "BasePath": "_content/CoAuth.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

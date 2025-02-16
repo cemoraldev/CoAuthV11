@@ -1,0 +1,15 @@
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/bin/Debug/net9.0/CoAuth.Core.deps.json
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/bin/Debug/net9.0/CoAuth.Core.dll
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/bin/Debug/net9.0/CoAuth.Core.pdb
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/CoAuth.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/CoAuth.Core.AssemblyInfoInputs.cache
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/CoAuth.Core.AssemblyInfo.cs
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/CoAuth.Core.csproj.CoreCompileInputs.cache
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/CoAuth.Core.dll
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/refint/CoAuth.Core.dll
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/CoAuth.Core.pdb
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/ref/CoAuth.Core.dll
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/CoAuth.Core.csproj.AssemblyReference.cache
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/bin/Debug/net9.0/SharedLibrary.dll
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/bin/Debug/net9.0/SharedLibrary.pdb
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/CoAuth.C.5F137BA4.Up2Date
