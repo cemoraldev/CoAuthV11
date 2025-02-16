@@ -17,3 +17,4 @@
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.Data/bin/Debug/net9.0/SharedLibrary.pdb
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.Data/bin/Debug/net9.0/CoAuth.Data.runtimeconfig.json
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.Data/obj/Debug/net9.0/CoAuth.Data.genruntimeconfig.cache
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Data/obj/Debug/net9.0/CoAuth.Data.sourcelink.json

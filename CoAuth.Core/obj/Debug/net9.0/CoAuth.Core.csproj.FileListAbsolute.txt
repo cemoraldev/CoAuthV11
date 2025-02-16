@@ -13,3 +13,4 @@
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/bin/Debug/net9.0/SharedLibrary.dll
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/bin/Debug/net9.0/SharedLibrary.pdb
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/CoAuth.C.5F137BA4.Up2Date
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Core/obj/Debug/net9.0/CoAuth.Core.sourcelink.json

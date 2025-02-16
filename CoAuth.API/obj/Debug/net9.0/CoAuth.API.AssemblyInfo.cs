@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoAuth.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfa6ff1bd803da1983ca55d50d4056559f0cf571")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoAuth.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoAuth.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,3 +10,4 @@
 /Users/cemoral/RiderProjects/CoAuth/SharedLibrary/obj/Debug/net9.0/SharedLibrary.pdb
 /Users/cemoral/RiderProjects/CoAuth/SharedLibrary/obj/Debug/net9.0/ref/SharedLibrary.dll
 /Users/cemoral/RiderProjects/CoAuth/SharedLibrary/obj/Debug/net9.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/cemoral/RiderProjects/CoAuth/SharedLibrary/obj/Debug/net9.0/SharedLibrary.sourcelink.json

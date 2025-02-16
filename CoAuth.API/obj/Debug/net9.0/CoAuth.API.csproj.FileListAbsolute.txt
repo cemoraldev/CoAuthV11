@@ -293,3 +293,4 @@
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.API/bin/Debug/net9.0/FluentValidation.dll
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.API/bin/Debug/net9.0/FluentValidation.AspNetCore.dll
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.API/bin/Debug/net9.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.API/obj/Debug/net9.0/CoAuth.API.sourcelink.json

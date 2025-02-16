@@ -17,3 +17,4 @@
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.Service/obj/Debug/net9.0/CoAuth.S.F47E9C69.Up2Date
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.Service/bin/Debug/net9.0/SharedLibrary.dll
 /Users/cemoral/RiderProjects/CoAuth/CoAuth.Service/bin/Debug/net9.0/SharedLibrary.pdb
+/Users/cemoral/RiderProjects/CoAuth/CoAuth.Service/obj/Debug/net9.0/CoAuth.Service.sourcelink.json
